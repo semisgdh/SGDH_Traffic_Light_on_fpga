@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/fpga/SGDH_Traffic_Light/project_1/project_1.srcs/sources_1/imports/code/design/sgdh_traffic_light_core.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sgdh_traffic_light_core
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/fpga/SGDH_Traffic_Light/project_1/project_1.srcs/sources_1/imports/code/design/sgdh_traffic_light_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sgdh_traffic_light_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/fpga/SGDH_Traffic_Light/project_1/project_1.srcs/sources_1/new/sgdh_traffic_light_top_fpga.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sgdh_traffic_light_top_fpga
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/fpga/SGDH_Traffic_Light/project_1/project_1.srcs/sim_1/new/sgdh_traffic_light_top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sgdh_traffic_light_top_tb

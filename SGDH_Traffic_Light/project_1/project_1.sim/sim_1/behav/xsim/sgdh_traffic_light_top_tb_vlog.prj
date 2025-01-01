@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../project_1.srcs/sources_1/imports/code/include" \
+"../../../../project_1.srcs/sources_1/imports/code/design/sgdh_traffic_light_core.v" \
+"../../../../project_1.srcs/sources_1/imports/code/design/sgdh_traffic_light_top.v" \
+"../../../../project_1.srcs/sources_1/new/sgdh_traffic_light_top_fpga.v" \
+"../../../../project_1.srcs/sim_1/new/sgdh_traffic_light_top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
