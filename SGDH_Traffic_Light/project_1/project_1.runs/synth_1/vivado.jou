@@ -2,8 +2,8 @@
 # Vivado v2022.1 (64-bit)
 # SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
 # IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
-# Start of session at: Wed Jan  1 12:29:07 2025
-# Process ID: 12608
+# Start of session at: Sat Feb  1 16:11:24 2025
+# Process ID: 81712
 # Current directory: C:/fpga/SGDH_Traffic_Light/project_1/project_1.runs/synth_1
 # Command line: vivado.exe -log sgdh_traffic_light_top_fpga.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sgdh_traffic_light_top_fpga.tcl
 # Log file: C:/fpga/SGDH_Traffic_Light/project_1/project_1.runs/synth_1/sgdh_traffic_light_top_fpga.vds

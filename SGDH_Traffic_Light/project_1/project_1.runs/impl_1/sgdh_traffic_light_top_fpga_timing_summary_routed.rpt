@@ -1,7 +1,7 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
-| Date         : Wed Jan  1 12:30:25 2025
+| Date         : Sat Feb  1 16:12:46 2025
 | Host         : DESKTOP-JAVEEGF running 64-bit major release  (build 9200)
 | Command      : report_timing_summary -max_paths 10 -report_unconstrained -file sgdh_traffic_light_top_fpga_timing_summary_routed.rpt -pb sgdh_traffic_light_top_fpga_timing_summary_routed.pb -rpx sgdh_traffic_light_top_fpga_timing_summary_routed.rpx -warn_on_violation
 | Design       : sgdh_traffic_light_top_fpga
