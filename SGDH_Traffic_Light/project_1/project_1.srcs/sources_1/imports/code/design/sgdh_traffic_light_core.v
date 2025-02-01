@@ -81,16 +81,16 @@ always @(*) begin
         if (timer == 1) begin
             case (state)
                 S_RED: begin
-                    n_state = S_YELLOW;
-                    n_timer = YELLOW_TIME;
-                    n_light = YELLOW;
-                end
-                S_YELLOW: begin
                     n_state = S_GREEN;
                     n_timer = GREEN_TIME;
                     n_light = GREEN;
                 end
                 S_GREEN: begin
+                    n_state = S_YELLOW;
+                    n_timer = YELLOW_TIME;
+                    n_light = YELLOW;
+                end
+                S_YELLOW: begin
                     n_state = S_RED;
                     n_timer = RED_TIME;
                     n_light = RED;
